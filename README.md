@@ -26,6 +26,8 @@ hack nerd font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0
 
 icomoon feather: https://aur.archlinux.org/packages/ttf-icomoon-feather
 
+maplestory (optional): https://freefonts.kr/fonts/maplestory-bold
+
 you might tweak the code a lil bit if you running some issues
 
 oh and btw rofi might be a bit transparent cuz idk how to fix that lol
