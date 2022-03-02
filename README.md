@@ -19,4 +19,17 @@ more nord wallpapers at: https://nordthemewallpapers.com/
 ![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220302_211150.png)
 ![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220302_211225.png)
 
+you might tweak the code a lil bit if you running some issues
+
+
+
+
+
+
+
+
+
+
+
+
 yes and idk how to commit with git lol :P
