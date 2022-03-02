@@ -21,7 +21,9 @@ more nord wallpapers at: https://nordthemewallpapers.com/
 
 # Additional Downloads
 iosevka nerd font:https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Iosevka.zip
+
 hack nerd font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip
+
 icomoon feather: https://aur.archlinux.org/packages/ttf-icomoon-feather
 
 you might tweak the code a lil bit if you running some issues
