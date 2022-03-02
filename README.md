@@ -9,9 +9,10 @@ based on: https://github.com/xXTgamerXx/nord-setup-dotfiles and a bit of improvm
 ![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220301_200210.png)
 
 # Wallpapers
-![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220301_200210.png)
-![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220301_200210.png)
-
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/wallpapers/cyclobutane.png)
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/wallpapers/kv9zp2jakht61.jpg)
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/wallpapers/minimal-22-nordified.jpg)
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/wallpapers/space-mars-4480x2520-nordified.jpg)
 more nord wallpapers at: https://nordthemewallpapers.com/
 
 yes and idk how to commit with git lol :P
