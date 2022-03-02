@@ -21,15 +21,4 @@ more nord wallpapers at: https://nordthemewallpapers.com/
 
 you might tweak the code a lil bit if you running some issues
 
-
-
-
-
-
-
-
-
-
-
-
-yes and idk how to commit with git lol :P
+oh and btw rofi might be a bit transparent cuz idk how to fix that lol
