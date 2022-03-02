@@ -15,4 +15,8 @@ based on: https://github.com/xXTgamerXx/nord-setup-dotfiles and a bit of improvm
 ![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/wallpapers/space-mars-4480x2520-nordified.jpg)
 more nord wallpapers at: https://nordthemewallpapers.com/
 
+# Firefox
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220302_211150.png)
+![image](https://raw.githubusercontent.com/seth98128/sethyboi-dotfiles/main/images/Screenshot_20220302_211225.png)
+
 yes and idk how to commit with git lol :P
