@@ -1,6 +1,9 @@
 # sethyboi dotfiles
 ![image](https://github.com/seth98128/sethyboi-dotfiles/raw/main/images/helo.png)
 
+# Updates
+removed corner radious 
+
 # Description
 based on: https://github.com/xXTgamerXx/nord-setup-dotfiles and a bit of improvments
 
